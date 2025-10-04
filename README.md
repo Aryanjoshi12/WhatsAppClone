@@ -28,6 +28,7 @@ This project is a learning implementation of WhatsApp’s core screens such as t
 
 ✅ **Home Screen (Placeholder)**  
 - Base layout for main chat screen after registration.
+  
 ![WhatsApp Image 2025-10-05 at 01 21 33_ba6e33b6](https://github.com/user-attachments/assets/251afba7-d214-4a9c-8887-479b0b74c230)
 
 ---
